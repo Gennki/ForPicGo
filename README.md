@@ -1,3 +1,3 @@
 # ForPicGo
 图床
-Token:b23a272970a3ed011c4bb04519d2d74c940ac45d
+Token:117eef47570b3c455aec5107d85d94f4fe76de04
